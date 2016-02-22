@@ -1,4 +1,4 @@
-# codewars
+# Codewars
 
 Working toward achieving mastery through challenge
 
@@ -7,3 +7,5 @@ skills. Master your current language of choice, or expand your understanding of
 a new one.
 
 [Codewars](http://www.codewars.com/)
+
+A repository of [my](http://github.com/juanshishido) solutions.
