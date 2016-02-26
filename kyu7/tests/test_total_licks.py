@@ -3,7 +3,7 @@ import unittest
 from kyu7.total_licks import total_licks
 
 
-class TestAccum(unittest.TestCase):
+class TestTotalClicks(unittest.TestCase):
 
     def test_freezing_temps_260(self):
         self.assertEqual('It took 260 licks to get to the tootsie roll center of a tootsie pop. The toughest challenge was freezing temps.',

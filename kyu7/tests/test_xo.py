@@ -3,7 +3,7 @@ import unittest
 from kyu7.xo import xo
 
 
-class TestAccum(unittest.TestCase):
+class TestXo(unittest.TestCase):
 
     def test_ooxx_True(self):
         self.assertEqual(True, xo('ooxx'))

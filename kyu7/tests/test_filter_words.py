@@ -3,7 +3,7 @@ import unittest
 from kyu7.filter_words import filter_words
 
 
-class TestAccum(unittest.TestCase):
+class TestFilterWords(unittest.TestCase):
 
     def test_Bad(self):
         self.assertEqual("You're awesome! timmy!",

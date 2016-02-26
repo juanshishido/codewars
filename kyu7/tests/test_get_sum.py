@@ -3,7 +3,7 @@ import unittest
 from kyu7.get_sum import get_sum
 
 
-class TestAccum(unittest.TestCase):
+class TestGetSum(unittest.TestCase):
 
     def test_one_zero_equals_one(self):
         self.assertEqual(1, get_sum(1, 0))

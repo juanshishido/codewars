@@ -3,7 +3,7 @@ import unittest
 from kyu7.list_parse import *
 
 
-class TestAccum(unittest.TestCase):
+class TestListParse(unittest.TestCase):
 
     arr = [1, 2, 3, 4, 5]
 
