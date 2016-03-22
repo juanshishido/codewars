@@ -1,6 +1,6 @@
 import unittest
 
-from kyu3.base64 import *
+from kyu3.base_64 import *
 
 
 class TestBase64(unittest.TestCase):
